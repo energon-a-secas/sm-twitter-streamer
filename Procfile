@@ -1,0 +1,1 @@
+worker: env QUEUE=* ruby twitter_client.rb
