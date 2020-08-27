@@ -1,4 +1,4 @@
-Twitter <img align="right" width="100" height="100" src="https://i.imgur.com/AlqxGdT.pn">
+Twitter <img align="right" width="100" height="100" src="https://i.imgur.com/AlqxGdT.png">
 ========
 
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg) 
