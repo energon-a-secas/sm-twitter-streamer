@@ -1,4 +1,4 @@
-Twitter <img align="right" width="100" height="100" src="https://i.imgur.com/AlqxGdT.png">
+Twitter Streamer <img align="right" width="100" height="100" src="https://i.imgur.com/AlqxGdT.png">
 ========
 
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg) 
@@ -17,7 +17,7 @@ In any case if I were you, I'll rather not use more than 2 accounts at the same 
 Configuration
 ---
 
-If you don't have a developer account on Twitter you will need to apply for one. It shouldn't take more than 5 work days to get it approved. 
+If you don't have a developer account on Twitter you will need to apply for one. It shouldn't take more than 5 business days to get it approved. 
 
 Once you are done with that, just need to set the corresponding environment variables that eventually i'll add to this README.
 
