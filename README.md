@@ -3,11 +3,11 @@ Twitter <img align="right" width="100" height="100" src="https://i.imgur.com/Alq
 
 ![This software is Blessed](https://img.shields.io/badge/blessed-100%25-770493.svg) 
 
-I actually hate to use Twitter but it has some useful accounts that provide content worth of posting on our favorites chats. With this repository you can send all new tweets from an specified account to Slack and Discord.
+I actually hate using Twitter but it has some useful accounts that provide content worth of posting on our favorites chats. With this repository you can send all new tweets from an specified account to Slack and Discord.
 
 Useful accounts worth mentioning:
 
-- [@DescuentosRata](https://twitter.com/DescuentosRata): tweets about offers, usually only from stores on Chile.
+- [@DescuentosRata](https://twitter.com/DescuentosRata): tweets about offers and discounts, usually only from stores on Chile.
 - [@SismoMundial](https://twitter.com/SismoMundial): tweets from any type of disaster around the world. In our country are mostly earthquakes rather than anything.
 - [@metrodesantiago](https://twitter.com/metrodesantiago): tweets goes from daily messages to relevant alerts with the subway system (Metro).
 - [@TCC_oficial_](https://twitter.com/TCC_oficial_): Transport Community Chile, alerts from Santiago (Santiago is Chile).
